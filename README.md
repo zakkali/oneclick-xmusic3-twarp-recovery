@@ -1,2 +1,1 @@
-# oneclick-xmusic3-twarp-recovery
-unofficial twrp 3.3.1
+# oneclick-xmusic3-unofficial twrp 3.3.1-recovery
